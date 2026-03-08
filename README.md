@@ -23,25 +23,10 @@
 
 🚀 Most of my experience comes from **hackathons and building independent projects.**
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:ganesh957kumar@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ganesh-kumar-957t">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # 🛠 Tech Stack
+
+<p align="center">
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,c,js"/>
@@ -52,37 +37,27 @@
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 
----
-
-# 🧠 Core Computer Science
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- RESTful APIs  
-- DBMS Fundamentals  
-- Operating Systems Basics  
+</p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 🧠 SAHAAY-AI
-Full-stack application for **daily mood tracking and check-ins** using Firebase and AI integration.
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganesh-0509&repo=sahaay-ui-redesign&theme=tokyonight"/>
 
-### 🔬 PHARMAINSIGHTS
-Research platform integrating **multiple external APIs**, authentication, and automated reports.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganesh-0509&repo=Pharma-Insights&theme=tokyonight"/>
 
----
+</p>
 
-### 💰 FINMATE
-Personal finance manager with **expense tracking, dashboards, OCR receipt scanning, and Firebase authentication**.
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vino1705&repo=Finmate&theme=tokyonight"/>
 
-### 🌕 Lunar Terrain Reconstruction
-System to reconstruct **3D lunar terrain from 2D images** with analytics and visualization.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganesh-0509&repo=ISRO-HAVK-Revolutionizing-Lunar-Terrain-Intelligence-for-Space-Missions&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -98,24 +73,35 @@ Second Runners-Up among **90 teams**
 
 ---
 
-# 📚 Certifications
-
-📜 Kaggle – **GenAI Intensive**
-
-📜 Google Cloud – **Build AI Applications with Gemini**
-
-📜 IBM – **Getting Started with Git & GitHub**
-
-📜 IBM – **Introduction to Software Engineering**
-
----
-
-# 📊 GitHub Stats
+# 📜 Certifications
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-0509&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-0509&theme=tokyonight"/>
+![Kaggle](https://img.shields.io/badge/Kaggle-GenAI%20Intensive-20BEFF?style=for-the-badge&logo=kaggle)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Gemini%20AI%20Apps-4285F4?style=for-the-badge&logo=googlecloud)
+
+![IBM](https://img.shields.io/badge/IBM-Git%20%26%20GitHub-052FAD?style=for-the-badge&logo=ibm)
+
+![IBM](https://img.shields.io/badge/IBM-Software%20Engineering-052FAD?style=for-the-badge&logo=ibm)
+
+</p>
+
+---
+
+# 📊 Coding Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://streak-stats.demolab.com/?user=Ganesh-0509&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="200em" src="https://leetcard.jacoblin.cool/24900911?theme=dark&font=baloo&ext=contest"/>
 
 </p>
 
@@ -124,6 +110,23 @@ Second Runners-Up among **90 teams**
 # ⚡ Fun Fact
 
 💡 I enjoy solving **algorithmic problems and building real-world systems from scratch.**
+
+---
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ganesh957kumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ganesh-kumar-957t">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
