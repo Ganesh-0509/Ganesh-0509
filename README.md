@@ -1,117 +1,130 @@
-# GANESH KUMAR T
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ganesh%20Kumar%20T&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-📧 ganesh957kumar@gmail.com  
-📞 +91-7825083996  
-🔗 LinkedIn: https://linkedin.com/in/ganesh-kumar-957t/
+<h3 align="center">AI & ML Undergraduate • Backend Developer • Problem Solver</h3>
 
----
-
-## About Me
-
-Second-year undergraduate Software Engineering–focused student with experience in full-stack and backend development through hackathons and independent projects. Strong foundation in data structures, RESTful APIs, DBMS fundamentals, and writing scalable, maintainable code with a continuous learning mindset.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ganesh-0509&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## Education
+# 👋 About Me
 
-**B.Tech in Artificial Intelligence and Machine Learning**  
-Saveetha Engineering College, Chennai  
-2024 – 2028  
-CGPA: 8.2
+🎓 **B.Tech Artificial Intelligence & Machine Learning**  
+📍 Saveetha Engineering College, Chennai  
+📊 CGPA: **8.2**
 
-**HSLC**  
-Velammal Vidyalaya, Chennai  
-2024 – 87.4%
+💡 Passionate about:
 
-**SSLC**  
-Velammal Vidyalaya, Chennai  
-2022 – 90.2%
+- Backend Systems  
+- Data Structures & Algorithms  
+- Building real-world software systems  
+- Scalable APIs  
 
----
-
-## Skills
-
-### Programming Languages
-- Python
-- Java
-- C
-
-### Data Structures & Algorithms
-- Arrays
-- Hash Maps
-- Trees
-- Recursion
-- Graph Traversal
-- Time & Space Complexity
-
-### Core Computer Science
-- Object-Oriented Programming
-- RESTful APIs
-- DBMS Fundamentals
-- Operating Systems Concepts
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-
-### Tools & Platforms
-- Git
-- GitHub (branching, pull requests)
-- VS Code
-- Firebase
-- Firestore
+🚀 Most of my experience comes from **hackathons and building independent projects.**
 
 ---
 
-## Certifications & Trainings
+# 🌐 Connect With Me
 
-- **5-Day GenAI Intensive – Kaggle** (Jan 2025)
-- **Build Real World AI Applications with Gemini – Google Cloud Skill Badge**
-- **Getting Started with Git and GitHub – IBM (Coursera)**
-- **Introduction to Software Engineering – IBM (Coursera)**
+<p align="left">
 
----
+<a href="mailto:ganesh957kumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## Achievements
+<a href="https://linkedin.com/in/ganesh-kumar-957t">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🥇 **OpenAI Academy x NxtWave Buildathon**  
-  State-Level 1st Place; Top 10 National Finalist among 1000+ participants.
-
-- 🥉 **VØID v1 Hackathon – VIT Chennai**  
-  Second Runners-Up among 90 teams for technical depth and execution.
-
-- 🧠 **LeetCode 50 Days Badge (2025)**  
-  Solved algorithmic problems consistently and strengthened problem-solving discipline.
+</p>
 
 ---
 
-## Projects
+# 🛠 Tech Stack
 
-### SAHAAY-AI (Solo)
-Built a full-stack web application for daily check-ins and mood tracking using RESTful APIs and Firebase Firestore. Implemented backend logic for user data storage, analytics, and AI integration.
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
 
-### PHARMAINSIGHTS (Solo)
-Developed a modular research platform integrating multiple external APIs. Implemented backend workflows, authentication, and automated report generation with clear data separation.
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
 
-### FINMATE (Team of 4)
-Worked on a personal finance application. Implemented expense tracking, data visualization dashboards, OCR-based receipt input, and secure Firebase authentication.
-
-### Lunar Terrain Reconstruction (Team of 2)
-Developed a system to reconstruct and visualize 3D terrain from 2D images. Implemented data processing pipelines, analytics, and interactive visualization features.
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 
 ---
 
-## Interests
+# 🧠 Core Computer Science
 
-- Software Engineering
-- Backend Systems
-- Data Structures & Algorithms
-- Distributed Systems (Basics)
-- Applied Problem Solving
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- RESTful APIs  
+- DBMS Fundamentals  
+- Operating Systems Basics  
 
 ---
 
-⭐ Always learning and building.
+# 🚀 Projects
+
+### 🧠 SAHAAY-AI
+Full-stack application for **daily mood tracking and check-ins** using Firebase and AI integration.
+
+---
+
+### 🔬 PHARMAINSIGHTS
+Research platform integrating **multiple external APIs**, authentication, and automated reports.
+
+---
+
+### 💰 FINMATE
+Personal finance manager with **expense tracking, dashboards, OCR receipt scanning, and Firebase authentication**.
+
+---
+
+### 🌕 Lunar Terrain Reconstruction
+System to reconstruct **3D lunar terrain from 2D images** with analytics and visualization.
+
+---
+
+# 🏆 Achievements
+
+🥇 **OpenAI Academy × NxtWave Buildathon**  
+State-Level **1st Place** and **Top 10 National Finalist**
+
+🥉 **VØID v1 Hackathon – VIT Chennai**  
+Second Runners-Up among **90 teams**
+
+🧠 **LeetCode 50 Days Badge (2025)**
+
+---
+
+# 📚 Certifications
+
+📜 Kaggle – **GenAI Intensive**
+
+📜 Google Cloud – **Build AI Applications with Gemini**
+
+📜 IBM – **Getting Started with Git & GitHub**
+
+📜 IBM – **Introduction to Software Engineering**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-0509&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-0509&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I enjoy solving **algorithmic problems and building real-world systems from scratch.**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
