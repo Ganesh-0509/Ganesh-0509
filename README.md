@@ -20,7 +20,7 @@
 📍 Saveetha Engineering College, Chennai
 📊 CGPA: **8.2**
 
-I'm a final-year AI & ML student who builds things end-to-end — from backend APIs to polished frontends to LLM-powered tools. I've won national-level hackathons, shipped independent projects, and I'm looking for remote roles or freelance clients where I can contribute fast and grow faster.
+I'm a Pre-final-year AI & ML student who builds things end-to-end — from backend APIs to polished frontends to LLM-powered tools. I've won national-level hackathons, shipped independent projects, and I'm looking for remote roles or freelance clients where I can contribute fast and grow faster.
 
 ---
 
