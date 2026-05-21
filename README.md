@@ -99,10 +99,13 @@ Second Runners-Up among **90 teams**
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh-0509/Ganesh-0509/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh-0509/Ganesh-0509/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh-0509/Ganesh-0509/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ganesh-0509/Ganesh-0509/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 ---
 
 # 🌐 Connect With Me
