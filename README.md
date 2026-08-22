@@ -128,18 +128,22 @@ Currently open to remote internships, full-time roles, and freelance/contract wo
 
 <br/>
 
+<!-- 2026-08-22: the shared public instances of github-readme-stats, github-profile-trophy,
+     and github-profile-summary-cards were all down (rate-limit exhaustion / quota outages).
+     Self-hosted forks of all three on Vercel under a personal token instead. -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganesh-0509&theme=default" alt="Profile summary"/>
+  <img src="https://github-readme-stats-sable-three-16.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganesh-0509&theme=default" alt="GitHub stats summary"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ganesh-0509&theme=default" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/profile-details?username=Ganesh-0509&theme=default" alt="Profile summary"/>
 </div>
 
-<!-- Classic github-readme-stats.vercel.app cards were dropped 2026-08-21 — confirmed 503
-     (shared-instance overload) across multiple checks. github-profile-summary-cards above
-     covers the same data and was verified live. Revisit if the classic service recovers. -->
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/stats?username=Ganesh-0509&theme=default" alt="GitHub stats summary"/>
+  <img width="49%" src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/most-commit-language?username=Ganesh-0509&theme=default" alt="Most used languages"/>
+</div>
 
 <br/>
 
@@ -147,11 +151,7 @@ Currently open to remote internships, full-time roles, and freelance/contract wo
 
 ### Trophies
 
-<!-- github-profile-trophy.vercel.app confirmed down (402, Vercel quota exhausted) as of
-     2026-08-21 — verified against an unrelated username too, so it's a real outage, not
-     account-specific. Left in since the URL is correct and the service is known to recover;
-     if it still shows broken, that's the host, not this file. -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-0509&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-ashy-ten.vercel.app/?username=Ganesh-0509&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
