@@ -3,14 +3,14 @@
 # Ganesh Kumar T
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;B.Tech+AI+%26+ML%2C+Saveetha+Engineering+College;Building+agentic+systems%2C+computer+vision+%26+production+web+apps" alt="Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%26+Full-Stack+Developer;B.Tech+AI+%26+ML%2C+Saveetha+Engineering+College;Building+agentic+systems%2C+computer+vision+%26+production+web+apps" alt="Tagline"/>
 </a>
 
-[![Email](https://img.shields.io/badge/Email-ganesh957kumar%40gmail.com-64748B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh957kumar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Kumar-64748B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-kumar-957t)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ganesh--0509.github.io-64748B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ganesh-0509.github.io)
-[![Wellfound](https://img.shields.io/badge/Wellfound-ganesh--kumar--t-64748B?style=for-the-badge&logo=wellfound&logoColor=white)](https://wellfound.com/u/ganesh-kumar-t-1)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-64748B?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-ganesh957kumar%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh957kumar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Kumar-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-kumar-957t)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ganesh--0509.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ganesh-0509.github.io)
+[![Wellfound](https://img.shields.io/badge/Wellfound-ganesh--kumar--t-38BDF8?style=for-the-badge&logo=wellfound&logoColor=white)](https://wellfound.com/u/ganesh-kumar-t-1)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-38BDF8?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 Chennai, India
 
@@ -121,41 +121,25 @@ Currently open to remote internships, full-time roles, and freelance/contract wo
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Ganesh-0509?style=for-the-badge&label=Followers&color=64748B&logo=github&logoColor=white" alt="Followers"/>&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGanesh-0509&label=Public%20Repos&query=%24.public_repos&color=64748B&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-0509&style=for-the-badge&label=Profile%20Views&color=64748B" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<!-- 2026-08-22: the shared public instances of github-readme-stats, github-profile-trophy,
-     and github-profile-summary-cards were all down (rate-limit exhaustion / quota outages).
-     Self-hosted forks of all three on Vercel under a personal token instead. -->
-
-<div align="center">
-  <img src="https://github-readme-stats-sable-three-16.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/profile-details?username=Ganesh-0509&theme=default" alt="Profile summary"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/stats?username=Ganesh-0509&theme=default" alt="GitHub stats summary"/>
-  <img width="49%" src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/most-commit-language?username=Ganesh-0509&theme=default" alt="Most used languages"/>
+  <img src="https://img.shields.io/github/followers/Ganesh-0509?style=for-the-badge&label=Followers&color=38BDF8&logo=github&logoColor=white" alt="Followers"/>&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGanesh-0509&label=Public%20Repos&query=%24.public_repos&color=38BDF8&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Ganesh-0509&style=for-the-badge&label=Profile%20Views&color=38BDF8" alt="Profile Views"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-### Trophies
-
-<img src="https://github-profile-trophy-ashy-ten.vercel.app/?username=Ganesh-0509&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
-
+  <img src="https://github-readme-stats-sable-three-16.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-trophy-ashy-ten.vercel.app/?username=Ganesh-0509&theme=tokyonight&no-frame=true&row=1&column=7&refresh=20260822" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/stats?username=Ganesh-0509&theme=tokyonight" alt="Summary Stats"/>&nbsp;
+  <img src="https://github-profile-summary-cards-vert-xi.vercel.app/api/cards/repos-per-language?username=Ganesh-0509&theme=tokyonight" alt="Repos per Language"/>
+</div>
 
 <br/>
 
