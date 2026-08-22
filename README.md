@@ -129,7 +129,7 @@ Currently open to remote internships, full-time roles, and freelance/contract wo
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sable-three-16.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sable-three-16.vercel.app/api?username=Ganesh-0509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&refresh=20260822b" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
